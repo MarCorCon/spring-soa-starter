@@ -14,5 +14,6 @@ buildNumber.properties
 # Eclipse
 .classpath
 .project
+.settings
 *.iml
 .idea
