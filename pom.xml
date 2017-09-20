@@ -8,6 +8,14 @@
     <artifactId>sss3E</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+    
+    <name>Spring SOA Starter</name>
+    <description>Spring SOA base project</description>
+    
+    <organization>
+        <name>Emergya</name>
+        <url>https://www.emergya.com</url>
+    </organization>
 
     <modules>
         <module>swagger</module>
